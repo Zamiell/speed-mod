@@ -9,7 +9,7 @@ This is a mod for *The Binding of Isaac: Afterbirth* that:
 * Removes the jumping in the hole to the next floor animation (001.000_player.anm2)
 * Sets the "shake" animation to 0 frames, which is the animation responsible for Book of Revelations, rainbow poop, black heart depletion, and so forth (giantbook.anm2)
 * Slightly modifies the title screen (titlemenu.png)
-* Sets boss death animations that are longer than 1 frame to 1 frame (except for Gabriel, Uriel, and Krampus)
+* Sets boss death animations that are longer than 1 frame to 1 frame (except for Krampus, Uriel, and Gabriel)
 
 So far, Monstro is the only boss that is actually done, I'll work on doing the rest later and remove this note.
 
