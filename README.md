@@ -16,6 +16,6 @@ This is a mod for *The Binding of Isaac: Afterbirth* that:
 * Sets boss death animations that are longer than 1 frame to 1 frame (except for Krampus, Uriel, and Gabriel)
 
 Notes:
-* Pedestal item pickups were set to 17 frames since there are actually only 17 frames of animation. Removing the animation entirely makes the game feel a little off.
+* Pedestal item pickups were set to 17 frames since there is only 17 frames of actual animation. Removing the animation entirely makes the game feel a little off.
 * The lowest frame count that the jumping in the hole animation can be set to is 2. Otherwise, the game will soft-lock when the player jumps into a big chest.
 * There is around 1 frame of lag whenever the shake animation is supposed to play (with the exception of entering or exiting Curse Rooms). I'm not sure how to fix this without the LUA API DLC. However, this isn't really a major issue.
