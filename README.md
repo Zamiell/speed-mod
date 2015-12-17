@@ -1,4 +1,4 @@
-# speed-mod v1.1
+# speed-mod v1.2
 
 This is a mod for *The Binding of Isaac: Afterbirth* that:
 * Adds a small logo to the title screen (titlemenu.png)
