@@ -9,7 +9,7 @@ From a strategic standpoint, hardly anything is changed. Here's a small list of 
 
 * Betrayal is now a take. You can also use it to lock in devil deals if needed.
 * Dry Baby is now always a take.
-* You might not want to bomb out of certain boss rooms that you normally do. For example, Monstro II has a long death animation and most racers bomb out of his room on the Cathedral. But now, if you have high DPS, you might not want to waste the bomb.
+* You might not want to bomb out of certain boss rooms that you normally do. For example, Monstro II has a long death animation and most racers bomb out of his room on The Cathedral. But now, if you have high DPS, you might not want to waste the bomb.
 
 
 ## Full List of Changes
