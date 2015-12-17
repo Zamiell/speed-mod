@@ -27,4 +27,4 @@ From a strategic standpoint, hardly anything is changed. Here's a small list of 
 
 ## Other Notes
 * The lowest frame count that the jumping in the hole animation can be set to is 2. Otherwise, the game will soft-lock when the player jumps into a big chest.
-* There is around 1 frame of lag whenever the shake animation is supposed to play (with the exception of entering or exiting Curse Rooms). I'm not sure how to fix this without the LUA API DLC. However, this isn't really a major issue.
+* There is around 1 frame of lag whenever the shake animation is supposed to play (with the exception of entering or exiting Curse Rooms). I'm not sure how to fix this without the Lua API DLC. However, this isn't really a major issue.
