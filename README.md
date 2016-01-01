@@ -2,7 +2,7 @@
 
 This is a racing mod for *The Binding of Isaac: Afterbirth* that removes cutscenes and some useless animations. Since it is only a "graphics" mod, it influences the game in only very minor ways, so you can combine it with whatever other mods you want.
 
-[Download the latest verion here](https://github.com/Zamiell/speed-mod/releases).
+[Download the latest version here.](https://github.com/Zamiell/speed-mod/releases)
 
 ## How It Impacts The Game
 From a strategic standpoint, hardly anything is changed. Here's a small list of things that are:
