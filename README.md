@@ -1,5 +1,7 @@
 # speed-mod v1.2
 
+**NOTE: Now that The Binding of Isaac: Afterbirth+ DLC has been released, this mod is not needed anymore and should be considered abandonware. Please see the [Racing+ racing platform](https://isaacracing.net) for all your speedrunning needs.**
+
 This is a racing mod for *The Binding of Isaac: Afterbirth* that removes cutscenes and some useless animations. Since it is only a "graphics" mod, it influences the game in only very minor ways, so you can combine it with whatever other mods you want.
 
 [Download the latest version here.](https://github.com/Zamiell/speed-mod/releases)
